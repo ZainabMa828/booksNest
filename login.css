@@ -1,0 +1,44 @@
+
+p{
+  font-size: 50px;
+  text-align: center;
+  }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+td, th {
+  border: 5px solid #ffcc66;
+  text-align: left;
+  padding: 8px;
+  
+} 
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border-color: #000000;
+  width: 90%;
+  
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color:  #ffcc66;
+  color: #000000;
+  padding: 16px 20px;
+  border: none;
+}
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  text-align: left;
+  
+}

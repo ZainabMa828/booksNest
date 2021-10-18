@@ -1,0 +1,17 @@
+h1{
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 150px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 520px;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Lucida Console", Courier, monospace;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 300px;
+}
